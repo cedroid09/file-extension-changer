@@ -1,0 +1,10 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\renamer\bin\Debug\renamer.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\renamer\bin\Debug\renamer.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\renamer\obj\Debug\renamer.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\renamer\obj\Debug\renamer.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\renamer\obj\Debug\renamer.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\renamer\renamer\bin\Debug\renamer.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\renamer\renamer\bin\Debug\renamer.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\renamer\renamer\obj\Debug\renamer.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\renamer\renamer\obj\Debug\renamer.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\renamer\renamer\obj\Debug\renamer.csprojResolveAssemblyReference.cache
