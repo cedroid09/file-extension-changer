@@ -1,5 +1,5 @@
 # file-extension-changer
-[Download](http://github.com/cedroid09/bin/debug/renamer.exe)
+[Download](http://github.com/cedroid09/file-extension-changer/bin/debug/renamer.exe)
 
 # How-to
 * Open Command Prompt.
